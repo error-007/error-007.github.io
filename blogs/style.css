@@ -29,6 +29,9 @@ body {
 .blog-title {
 	text-align: center;
 }
+ol {
+	margin-left: 2rem;
+}
 .code {
 	text-align: center;
 	padding: 2rem;
